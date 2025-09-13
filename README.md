@@ -4,9 +4,9 @@ This project is a clone of the Myntra website built with React, Vite, Redux Tool
 
 ##  Getting Started
 
-````markdown
-## 1. Clone the repository
 
+## 1. Clone the repository
+````markdown
 git clone https://github.com/Pradnya23/react-myntra-clone.git
 cd react-myntra-clone
 ````
